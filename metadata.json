@@ -1,0 +1,6 @@
+{
+  "name": "ADVMLabs",
+  "description": "Building Intelligent Systems for Africa and Beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
